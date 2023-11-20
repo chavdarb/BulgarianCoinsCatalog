@@ -47,27 +47,27 @@ OpenNumismat е удобно и надеждно приложение, пред�
 1. Свалете и инсталирайте OpenNumismat от [тук](https://opennumismat.github.io/bg/open-numismat/#download).
 2. Свалете каталога от [тук](https://github.com/chavdarb/BulgarianCoinsCatalog/releases)
 
-	![releases page](./images/download_page.png)
+	![releases page](./assets/images/download_page.png)
 	
 	В момента файла се казва **BulgariaCoinsCollection.db**. 
 	Запазете каталога на подходящо място на своя компютър. Там ще бъдат съхранени и монетите от вашата колекция които добавяте.	
 
 3. Отворете каталога в OpenNumismat
 
-	![open file](./images/open_file.png)
+	![open file](./assets/images/open_file.png)
 	
 4. Еднократно попълнете номенклатурата от каталога в програмата
 
-	![master data](./images/master_data.png)
+	![master data](./assets/images/master_data.png)
 	
 5. Всички монети са добавени като демонстрационни. 
 
-	![screenshot](./images/open_numismat.png)
+	![screenshot](./assets/images/open_numismat.png)
 
 	За да добавите свои своята колекция използвайте **клониране** на желаната монета.
 	Може да сложите свои снимки, качество и други детайли и променете статуса и по подходящ начин.
 	
-	![screenshot](./images/new_coin.png)
+	![screenshot](./assets/images/new_coin.png)
 	
 6. Повече информация може да намерите в [документацията](https://opennumismat.github.io/bg/open-numismat/manual.html) на OpenNumismat
 
