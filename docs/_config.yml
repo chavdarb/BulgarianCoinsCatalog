@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Каталог Български Царски и Княжески Монети (1881-1943)
 description: База с данни за OpenNumismat съдържащ всички циркулационни Княжески и Царски монети в периода 1881-1943 година.
+google_analytics: G-SV1W3MTP0K
 plugins:
   - jekyll-sitemap
