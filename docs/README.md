@@ -1,6 +1,6 @@
 ---
-title: Hello
-description: Description
+title: "OpenNumismat каталог на Българските Царски и Княжески монети"
+description: "База с данни за OpenNumismat съдържащ всички циркулационни Kняжески и Царски монети в периода 1881-1943 година."
 permalink: /
 ---
 
