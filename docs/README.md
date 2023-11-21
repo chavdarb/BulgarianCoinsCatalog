@@ -1,6 +1,7 @@
 ---
 title: Hello
 description: Description
+permalink: /
 ---
 
 ## OpenNumismat каталог на Българските Царски и Княжески монети (1881-1943)
